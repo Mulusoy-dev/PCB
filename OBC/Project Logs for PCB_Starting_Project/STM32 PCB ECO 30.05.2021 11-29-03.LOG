@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=NetB2_1 Pin=U4-32
-Added Pin To Net: NetName=NetB2_1 Pin=U4-46
-Added Member To Class: ClassName=STM32 Member=Component C1 330 nF C1206
-Added Room: Name=STM32
-Added Room: Name=STM32-2
