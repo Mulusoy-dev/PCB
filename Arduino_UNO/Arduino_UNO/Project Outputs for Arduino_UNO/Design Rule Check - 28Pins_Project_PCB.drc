@@ -1,0 +1,97 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\mulus\OneDrive\Masaüstü\Altium Projects\Arduino_UNO\Arduino_UNO\28Pins_Project_PCB.PcbDoc
+Date     : 5.09.2021
+Time     : 12:50:12
+
+WARNING: Unplated multi-layer pad(s) detected
+   Pad MH1-1(13.97mm,2.54mm) on Multi-Layer on Net GND
+   Pad MH3-1(66.04mm,35.56mm) on Multi-Layer on Net GND
+   Pad MH2-1(66.04mm,7.541mm) on Multi-Layer on Net GND
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.4mm) (Max=4mm) (Preferred=0.4mm) (InNet('+*') or InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.3mm) (Max=0.5mm) (Preferred=0.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=0.3mm) (MaxHoleWidth=0.3mm) (PreferredHoleWidth=0.3mm) (MinWidth=0.6mm) (MaxWidth=0.6mm) (PreferedWidth=0.6mm) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=0.254mm) (Max=0.254mm) (Prefered=0.254mm)  and Width Constraints (Min=0.381mm) (Max=0.381mm) (Prefered=0.381mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=10mm) (All)
+Rule Violations :0
+
+Processing Rule : Pads and Vias to follow the Drill pairs settings
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.3mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.029mm < 0.1mm) Between Pad C32-2(65.1mm,19.95mm) on Top Layer And Via (65.7mm,18.971mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.029mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.05mm < 0.1mm) Between Pad C7-1(15.25mm,23.2mm) on Top Layer And Via (16.25mm,23.1mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.05mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.088mm < 0.1mm) Between Pad J7-6(4.662mm,23.25mm) on Top Layer And Via (5.9mm,23.1mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.088mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.05mm < 0.1mm) Between Pad U5-1(4.65mm,27.55mm) on Top Layer And Via (5.7mm,27.8mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.05mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.05mm < 0.1mm) Between Pad U6-3(63.25mm,16.25mm) on Top Layer And Via (63mm,17.3mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.05mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.006mm < 0.1mm) Between Via (15.8mm,14.6mm) from Top Layer to Bottom Layer And Via (16.6mm,14.5mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.006mm] / [Bottom Solder] Mask Sliver [0.006mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.006mm < 0.1mm) Between Via (17.56mm,44.08mm) from Top Layer to Bottom Layer And Via (18.3mm,44.4mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.006mm] / [Bottom Solder] Mask Sliver [0.006mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.033mm < 0.1mm) Between Via (52.877mm,34.923mm) from Top Layer to Bottom Layer And Via (53.7mm,34.8mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.033mm] / [Bottom Solder] Mask Sliver [0.033mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.1mm) Between Via (64.5mm,14.93mm) from Top Layer to Bottom Layer And Via (65.357mm,14.843mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+Rule Violations :9
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Arc (15.24mm,50.8mm) on Top Overlay And Pad J4-10(18.796mm,50.8mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.1mm) Between Pad SW2-3(19.65mm,7.75mm) on Multi-Layer And Track (18.7mm,8.9mm)(20.7mm,8.9mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.1mm]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('SCKT FOR U1')),(InComponent('MH2') or InComponent('U1')) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('MH4')),(InComponent('FID4') or InComponent('J4')) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('SW2')),(InComponent('FID1')) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('R27')),(InComponent('R28')) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.2mm, Vertical Gap = 0.2mm ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0mm, Vertical Gap = 0mm ) (InComponent('MH2')),(InComponent('J2')) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 11
+Waived Violations : 0
+Time Elapsed        : 00:00:01
