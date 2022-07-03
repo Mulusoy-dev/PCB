@@ -1,0 +1,214 @@
+Change Component Description : Designator=U5 Old Description=DIGITAL HUMIDITY, PRESSURE AND TEMPERATURE SENSOR<br>* Digital interface IÂ²C (up to 3.4 MHz) and SPI (3 and 4 wire, up to 10 MHz)* Supply voltage VDD main supply voltage range: 1.71 V to 3.6 V*VDDIO interface voltage range: 1.2 V to 3.6 V<br> Operating range -40â€ New Description=DIGITAL HUMIDITY, PRESSURE AND TEMPERATURE SENSOR<br>* Digital interface IÂ²C (up to 3.4 MHz) and SPI (3 and 4 wire, up to 10 MHz)* Supply voltage VDD main supply voltage range: 1.71 V to 3.6 V*VDDIO interface voltage range: 1.2 V to 3.6 V<br> Operating range -40â€|+85 Â°C, 0â€|100 % rel. humidity, 300â€|1100 hPa <br><br>  The library has been designed by<a href="https://www.facebook.com/groups/eaglecadsoftUK"> Richard Magdycz</a>
+Added Pin To Net: NetName=PIO0_0 Pin=U1-L12
+Added Net: Name=PIO0_0
+Added Pin To Net: NetName=PIO0_3 Pin=U1-F8
+Added Net: Name=PIO0_3
+Added Pin To Net: NetName=PIO0_4 Pin=U1-E7
+Added Net: Name=PIO0_4
+Added Pin To Net: NetName=PIO0_6 Pin=U1-B7
+Added Net: Name=PIO0_6
+Added Pin To Net: NetName=PIO0_7 Pin=U1-G5
+Added Net: Name=PIO0_7
+Added Pin To Net: NetName=PIO0_10 Pin=U1-F2
+Added Net: Name=PIO0_10
+Added Pin To Net: NetName=PIO0_13 Pin=U1-C12
+Added Net: Name=PIO0_13
+Added Pin To Net: NetName=PIO0_14 Pin=U1-C13
+Added Net: Name=PIO0_14
+Added Pin To Net: NetName=PIO0_15 Pin=U1-L2
+Added Net: Name=PIO0_15
+Added Pin To Net: NetName=PIO0_16 Pin=U1-J2
+Added Net: Name=PIO0_16
+Added Pin To Net: NetName=PIO0_21 Pin=U1-A12
+Added Net: Name=PIO0_21
+Added Pin To Net: NetName=PIO0_22 Pin=U1-E9
+Added Net: Name=PIO0_22
+Added Pin To Net: NetName=PIO0_23 Pin=U1-J1
+Added Net: Name=PIO0_23
+Added Pin To Net: NetName=PIO0_27 Pin=U1-N2
+Added Net: Name=PIO0_27
+Added Pin To Net: NetName=PIO0_30 Pin=U1-E5
+Added Net: Name=PIO0_30
+Added Pin To Net: NetName=PIO1_1 Pin=U1-G11
+Added Net: Name=PIO1_1
+Added Pin To Net: NetName=PIO1_3 Pin=U1-G13
+Added Net: Name=PIO1_3
+Added Pin To Net: NetName=PIO1_9 Pin=U1-C1
+Added Net: Name=PIO1_9
+Added Pin To Net: NetName=PIO1_10 Pin=U1-J7
+Added Net: Name=PIO1_10
+Added Pin To Net: NetName=PIO1_11 Pin=U1-G6
+Added Net: Name=PIO1_11
+Added Pin To Net: NetName=PIO1_12 Pin=U1-F12
+Added Net: Name=PIO1_12
+Added Pin To Net: NetName=PIO1_14 Pin=U1-L7
+Added Net: Name=PIO1_14
+Added Pin To Net: NetName=PIO1_15 Pin=U1-B6
+Added Net: Name=PIO1_15
+Added Pin To Net: NetName=PIO1_17 Pin=U1-J9
+Added Net: Name=PIO1_17
+Added Pin To Net: NetName=PIO1_19 Pin=U1-H13
+Added Net: Name=PIO1_19
+Added Pin To Net: NetName=PIO1_20 Pin=U1-C2
+Added Net: Name=PIO1_20
+Added Pin To Net: NetName=PIO1_21 Pin=U1-M7
+Added Net: Name=PIO1_21
+Added Pin To Net: NetName=PIO1_22 Pin=U1-M8
+Added Net: Name=PIO1_22
+Added Pin To Net: NetName=PIO1_23 Pin=U1-J8
+Added Net: Name=PIO1_23
+Added Pin To Net: NetName=PIO1_24 Pin=U1-F6
+Added Net: Name=PIO1_24
+Added Pin To Net: NetName=PIO1_25 Pin=U1-B8
+Added Net: Name=PIO1_25
+Added Pin To Net: NetName=PIO1_26 Pin=U1-E13
+Added Net: Name=PIO1_26
+Added Pin To Net: NetName=PIO1_27 Pin=U1-E8
+Added Net: Name=PIO1_27
+Added Pin To Net: NetName=PIO1_28 Pin=U1-A8
+Added Net: Name=PIO1_28
+Added Pin To Net: NetName=PIO1_29 Pin=U1-G8
+Added Net: Name=PIO1_29
+Added Pin To Net: NetName=PIO1_31 Pin=U1-H6
+Added Net: Name=PIO1_31
+Added Member To Class: ClassName=Main Member=Component C1 0.1 µF
+Added Member To Class: ClassName=Main Member=Component C2 0.1 µF
+Added Member To Class: ClassName=Main Member=Component C3 0.1 µF
+Added Member To Class: ClassName=Main Member=Component C4 0.1 µF
+Added Member To Class: ClassName=Main Member=Component C5 0.1 µF
+Added Member To Class: ClassName=Main Member=Component C6 0.1 µF
+Added Member To Class: ClassName=Main Member=Component C7 0.1 µF
+Added Member To Class: ClassName=Main Member=Component C8 0.1 µF
+Added Member To Class: ClassName=Main Member=Component C9 22µF
+Added Member To Class: ClassName=Main Member=Component C10 0.1 µF
+Added Member To Class: ClassName=Main Member=Component C11 47 pF
+Added Member To Class: ClassName=Main Member=Component C12 12 pF
+Added Member To Class: ClassName=Main Member=Component C13 12 pF
+Added Member To Class: ClassName=Main Member=Component C14 12 pF
+Added Member To Class: ClassName=Main Member=Component C15 12 pF
+Added Member To Class: ClassName=Main Member=Component C16 22µF
+Added Member To Class: ClassName=Main Member=Component C17 0.1 µF
+Added Member To Class: ClassName=Main Member=Component C18 47 pF
+Added Member To Class: ClassName=Main Member=Component C19 0.47 µF
+Added Member To Class: ClassName=Main Member=Component C20 0.1 µF
+Added Member To Class: ClassName=Main Member=Component C21 4.7 µF
+Added Member To Class: ClassName=Main Member=Component C22 0.47 µF
+Added Member To Class: ClassName=Main Member=Component C23 0.1 µF
+Added Member To Class: ClassName=Main Member=Component C24 4.7 µF
+Added Member To Class: ClassName=Main Member=Component C25 22µF
+Added Member To Class: ClassName=Main Member=Component C26 47 pF
+Added Member To Class: ClassName=Main Member=Component C27 0.1 µF
+Added Member To Class: ClassName=Sensors Member=Component C28 0.1 µF
+Added Member To Class: ClassName=Sensors Member=Component C29 0.1 µF
+Added Member To Class: ClassName=Sensors Member=Component C30 0.1 µF
+Added Member To Class: ClassName=Sensors Member=Component C31 20pF
+Added Member To Class: ClassName=Sensors Member=Component C32 0.1 µF
+Added Member To Class: ClassName=Sensors Member=Component C33 20pF
+Added Member To Class: ClassName=Sensors Member=Component C34 20pF
+Added Member To Class: ClassName=Sensors Member=Component C35 20pF
+Added Member To Class: ClassName=Sensors Member=Component C36 0.1 µF
+Added Member To Class: ClassName=Sensors Member=Component C37 0.1 µF
+Added Member To Class: ClassName=Sensors Member=Component C38 20pF
+Added Member To Class: ClassName=Sensors Member=Component C39 0.1 µF
+Added Member To Class: ClassName=Sensors Member=Component C40 0.1 µF
+Added Member To Class: ClassName=Sensors Member=Component C41 20pF
+Added Member To Class: ClassName=Sensors Member=Component C42 20pF
+Added Member To Class: ClassName=Sensors Member=Component C43 0.1 µF
+Added Member To Class: ClassName=Sensors Member=Component C44 20pF
+Added Member To Class: ClassName=Sensors Member=Component C45 0.1 µF
+Added Member To Class: ClassName=Sensors Member=Component C46 1 µF
+Added Member To Class: ClassName=Sensors Member=Component C47 10 µF
+Added Member To Class: ClassName=microSD_Display Member=Component C48 0.1 µF
+Added Member To Class: ClassName=microSD_Display Member=Component C49 0.47 µF
+Added Member To Class: ClassName=microSD_Display Member=Component C50 0.1 µF
+Added Member To Class: ClassName=microSD_Display Member=Component C51 0.1 µF
+Added Member To Class: ClassName=microSD_Display Member=Component C52 10000pF
+Added Member To Class: ClassName=microSD_Display Member=Component C53 10000pF
+Added Member To Class: ClassName=microSD_Display Member=Component D1 Red
+Added Member To Class: ClassName=microSD_Display Member=Component D2 Green
+Added Member To Class: ClassName=microSD_Display Member=Component D3 Blue
+Added Member To Class: ClassName=Main Member=Component F1 3413.0215.22
+Added Member To Class: ClassName=Sensors Member=Component FB1 100 Ohms @ 100MHz
+Added Member To Class: ClassName=Sensors Member=Component FB2 100 Ohms @ 100MHz
+Added Member To Class: ClassName=Sensors Member=Component FB3 100 Ohms @ 100MHz
+Added Member To Class: ClassName=Sensors Member=Component FB4 100 Ohms @ 100MHz
+Added Member To Class: ClassName=Sensors Member=Component FB5 100 Ohms @ 100MHz
+Added Member To Class: ClassName=Main Member=Component IC1 PRTR5V0U2X,215
+Added Member To Class: ClassName=Main Member=Component IC2 PRTR5V0U2X,215
+Added Member To Class: ClassName=Main Member=Component IC3 NCP1117LPST33T3G
+Added Member To Class: ClassName=Main Member=Component IC4 TPS76318DBVR
+Added Member To Class: ClassName=microSD_Display Member=Component IC5 BSS84-7-F
+Added Member To Class: ClassName=microSD_Display Member=Component IC6 BSS84-7-F
+Added Member To Class: ClassName=microSD_Display Member=Component IC7 BSS138-7-F
+Added Member To Class: ClassName=microSD_Display Member=Component IC8 BSS138-7-F
+Added Member To Class: ClassName=microSD_Display Member=Component IC9 BSS138-7-F
+Added Member To Class: ClassName=microSD_Display Member=Component IC10 BSS138-7-F
+Added Member To Class: ClassName=Main Member=Component J1 USB4110-GF-A_REVB2
+Added Member To Class: ClassName=Main Member=Component J2 USB4110-GF-A_REVB
+Added Member To Class: ClassName=microSD_Display Member=Component J3 DM3CS-SF
+Added Member To Class: ClassName=Main Member=Component L1 4.7 µH
+Added Member To Class: ClassName=microSD_Display Member=Component P1 Header 2
+Added Member To Class: ClassName=microSD_Display Member=Component P2 1.14" IPS LCD
+Added Member To Class: ClassName=microSD_Display Member=Component P3 Header 5X2
+Added Member To Class: ClassName=Main Member=Component R1 5.1 kOhms
+Added Member To Class: ClassName=Main Member=Component R2 5.1 kOhms
+Added Member To Class: ClassName=Main Member=Component R3 5.1 kOhms
+Added Member To Class: ClassName=Main Member=Component R4 5.1 kOhms
+Added Member To Class: ClassName=Main Member=Component R5 33 Ohms
+Added Member To Class: ClassName=Main Member=Component R6 33 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R7 33 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R8 33 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R9 33 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R10 33 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R11 0 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R12 10 kOhms
+Added Member To Class: ClassName=Sensors Member=Component R13 0 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R14 0 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R15 0 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R16 33 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R17 33 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R18 33 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R19 33 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R20 0 Ohms
+Added Member To Class: ClassName=Sensors Member=Component R21 0 Ohms
+Added Member To Class: ClassName=microSD_Display Member=Component R22 100 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R23 100 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R24 47 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R25 100 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R26 100 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R27 47 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R28 33 Ohms
+Added Member To Class: ClassName=microSD_Display Member=Component R29 47 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R30 33 Ohms
+Added Member To Class: ClassName=microSD_Display Member=Component R31 47 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R32 33 Ohms
+Added Member To Class: ClassName=microSD_Display Member=Component R33 47 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R34 47 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R35 33 Ohms
+Added Member To Class: ClassName=microSD_Display Member=Component R36 47 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R37 2.2 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R38 100 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R39 10 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R40 10 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R41 10 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R42 10 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R43 150 Ohms
+Added Member To Class: ClassName=microSD_Display Member=Component R44 150 Ohms
+Added Member To Class: ClassName=microSD_Display Member=Component R45 150 Ohms
+Added Member To Class: ClassName=microSD_Display Member=Component R46 33 Ohms
+Added Member To Class: ClassName=microSD_Display Member=Component R47 33 Ohms
+Added Member To Class: ClassName=microSD_Display Member=Component R48 33 Ohms
+Added Member To Class: ClassName=microSD_Display Member=Component R49 100 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R50 100 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component R51 100 kOhms
+Added Member To Class: ClassName=microSD_Display Member=Component S1 1-1977223-1
+Added Member To Class: ClassName=microSD_Display Member=Component S2 1-1977223-1
+Added Member To Class: ClassName=microSD_Display Member=Component S3 1-1977223-1
+Added Member To Class: ClassName=Main Member=Component U1 LPC55S69JEV98K
+Added Member To Class: ClassName=Sensors Member=Component U2 OPT3006YMFR
+Added Member To Class: ClassName=Sensors Member=Component U3 ICM-20948
+Added Member To Class: ClassName=Sensors Member=Component U4 TXB0104RGYR
+Added Member To Class: ClassName=Sensors Member=Component U5 BME280
+Added Member To Class: ClassName=Sensors Member=Component U6 IAM-20381
+Added Member To Class: ClassName=Main Member=Component Y1 32.768 kHz
+Added Member To Class: ClassName=Main Member=Component Y2 16MHz

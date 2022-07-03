@@ -1,0 +1,96 @@
+Net Status Report
+Filename     : C:\Users\mulus\OneDrive\Masaüstü\Altium Projects\LPC55S69_Dev_Board\LPC55S69_Board\LPC55S69_Development.PcbDoc
+Date         : 30.06.2022
+Time         : 18:32:39
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +1V8, Signal Layers Only, 0mm
+    +3V3_GYRO, Signal Layers Only, 0mm
+    1V8_EN, Signal Layers Only, 0mm
+    ACCEL_INT1, Signal Layers Only, 0mm
+    BACKLIGHT, Signal Layers Only, 0mm
+    BLUE_LED, Signal Layers Only, 0mm
+    BME_ADDR, Signal Layers Only, 0mm
+    BOOT_MODE, Signal Layers Only, 0mm
+    DISP_CMD, Signal Layers Only, 0mm
+    DISP_CS, Signal Layers Only, 0mm
+    DISP_MOSI, Signal Layers Only, 0mm
+    DISP_RST, Signal Layers Only, 0mm
+    DISP_SCL, Signal Layers Only, 0mm
+    GND, Signal Layers Only, 0mm
+    GREEN_LED, Signal Layers Only, 0mm
+    GYRO_I2C_SCL, Signal Layers Only, 0mm
+    GYRO_I2C_SDA, Signal Layers Only, 0mm
+    GYRO_INT, Signal Layers Only, 0mm
+    I2C_SCK, Signal Layers Only, 0mm
+    I2C_SCL, Signal Layers Only, 0mm
+    I2C_SDA, Signal Layers Only, 0mm
+    LEDA, Signal Layers Only, 0mm
+    LOGIC_EN, Signal Layers Only, 0mm
+    NetC10_1, Signal Layers Only, 0mm
+    NetC28_2, Signal Layers Only, 0mm
+    NetC30_1, Signal Layers Only, 0mm
+    NetC31_1, Signal Layers Only, 0mm
+    NetC34_1, Signal Layers Only, 0mm
+    NetC35_1, Signal Layers Only, 0mm
+    NetC36_2, Signal Layers Only, 0mm
+    NetC39_2, Signal Layers Only, 0mm
+    NetC41_2, Signal Layers Only, 0mm
+    NetC42_2, Signal Layers Only, 0mm
+    NetC43_2, Signal Layers Only, 0mm
+    NetC44_2, Signal Layers Only, 0mm
+    NetC45_1, Signal Layers Only, 0mm
+    NetC46_1, Signal Layers Only, 0mm
+    NetC47_2, Signal Layers Only, 0mm
+    NetC48_2, Signal Layers Only, 0mm
+    NetC7_1, Signal Layers Only, 0mm
+    NetC8_1, Signal Layers Only, 0mm
+    NetC9_1, Signal Layers Only, 0mm
+    NetD1_2, Signal Layers Only, 0mm
+    NetD2_2, Signal Layers Only, 0mm
+    NetD3_2, Signal Layers Only, 0mm
+    NetJ1_A5, Signal Layers Only, 0mm
+    NetJ1_B5, Signal Layers Only, 0mm
+    NetJ2_A5, Signal Layers Only, 0mm
+    NetJ2_B5, Signal Layers Only, 0mm
+    NetL1_2, Signal Layers Only, 0mm
+    NetP3_4, Signal Layers Only, 0mm
+    NetP3_5, Signal Layers Only, 0mm
+    NetP3_6, Signal Layers Only, 0mm
+    NetP3_8, Signal Layers Only, 0mm
+    NetR14_1, Signal Layers Only, 0mm
+    NetR24_1, Signal Layers Only, 0mm
+    NetR25_2, Signal Layers Only, 0mm
+    NetR26_2, Signal Layers Only, 0mm
+    NetR27_2, Signal Layers Only, 0mm
+    NetR28_2, Signal Layers Only, 0mm
+    NetR31_2, Signal Layers Only, 0mm
+    NetR40_2, Signal Layers Only, 0mm
+    NetR5_2, Signal Layers Only, 0mm
+    NetR6_2, Signal Layers Only, 0mm
+    NetR9_1, Signal Layers Only, 0mm
+    OPT_INT, Signal Layers Only, 0mm
+    RED_LED, Signal Layers Only, 0mm
+    RESETN, Signal Layers Only, 0mm
+    SDIO_0, Signal Layers Only, 0mm
+    SDIO_1, Signal Layers Only, 0mm
+    SDIO_2, Signal Layers Only, 0mm
+    SDIO_3, Signal Layers Only, 0mm
+    SDIO_CLK, Signal Layers Only, 0mm
+    SDIO_CMD, Signal Layers Only, 0mm
+    SDIO_PWR, Signal Layers Only, 0mm
+    SDWIO, Signal Layers Only, 0mm
+    SD_DETECT, Signal Layers Only, 0mm
+    SWDCLK, Signal Layers Only, 0mm
+    SWO, Signal Layers Only, 0mm
+    USB1_D_N, Signal Layers Only, 0mm
+    USB1_D_P, Signal Layers Only, 0mm
+    USB1_VBUS, Signal Layers Only, 0mm
+    USB_D_N, Signal Layers Only, 0mm
+    USB_D_P, Signal Layers Only, 0mm
+    USB_VBUS, Signal Layers Only, 0mm
+    USB_VBUS_F, Signal Layers Only, 0mm
+    VDD_PMU_FB, Signal Layers Only, 0mm
+    WAKEUP, Signal Layers Only, 0mm
+count : 88

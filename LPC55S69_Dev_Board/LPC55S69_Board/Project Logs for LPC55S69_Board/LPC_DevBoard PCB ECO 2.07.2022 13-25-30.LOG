@@ -1,0 +1,115 @@
+Added Component: Designator=J4(SULLINS SBH11-NBPC-D10-ST-BK)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://s3.amazonaws.com/catalogspreads-pdf/PAGE122%20.100%20SBH11%20SERIES%20MALE%20BOX%20HDR%20ST%20RA%20SMT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/sullins-connector-solutions/SBH11-NBPC-D10-ST-BK/SBH11-NBPC-D10-ST-BK-ND/4558585"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Post"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Mating"; Value = "Flash"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Push-Pull"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Keying Slot"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "21.06.2022 14:45:11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins Connector Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SBH11-NBPC-D10-ST-BK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "SBH11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shrouding"; Value = "Shrouded - 4 Wall"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Board to Board or Cable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SBH11-NBPC-D10-ST-BK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polyamide (PA), Nylon"; VariantName = "[No Variations]"
+Added Component: Designator=J5(SULLINS SBH11-NBPC-D10-ST-BK)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://s3.amazonaws.com/catalogspreads-pdf/PAGE122%20.100%20SBH11%20SERIES%20MALE%20BOX%20HDR%20ST%20RA%20SMT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/sullins-connector-solutions/SBH11-NBPC-D10-ST-BK/SBH11-NBPC-D10-ST-BK-ND/4558585"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Post"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness - Mating"; Value = "Flash"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Push-Pull"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Keying Slot"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "21.06.2022 14:45:11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins Connector Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SBH11-NBPC-D10-ST-BK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "SBH11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shrouding"; Value = "Shrouded - 4 Wall"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Board to Board or Cable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SBH11-NBPC-D10-ST-BK-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polyamide (PA), Nylon"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=PIO1_1 Pin=J4-3
+Added Pin To Net: NetName=PIO1_3 Pin=J4-4
+Added Pin To Net: NetName=PIO1_9 Pin=J4-5
+Added Pin To Net: NetName=PIO1_10 Pin=J4-6
+Added Pin To Net: NetName=PIO1_11 Pin=J4-7
+Added Pin To Net: NetName=PIO1_12 Pin=J4-8
+Added Pin To Net: NetName=PIO1_14 Pin=J4-9
+Added Pin To Net: NetName=PIO1_15 Pin=J4-10
+Added Pin To Net: NetName=PIO1_27 Pin=J4-11
+Added Pin To Net: NetName=PIO1_26 Pin=J4-12
+Added Pin To Net: NetName=PIO1_25 Pin=J4-13
+Added Pin To Net: NetName=PIO1_24 Pin=J4-14
+Added Pin To Net: NetName=PIO1_23 Pin=J4-15
+Added Pin To Net: NetName=PIO1_22 Pin=J4-16
+Added Pin To Net: NetName=PIO1_21 Pin=J4-17
+Added Pin To Net: NetName=PIO1_20 Pin=J4-18
+Added Pin To Net: NetName=PIO1_19 Pin=J4-19
+Added Pin To Net: NetName=PIO1_17 Pin=J4-20
+Added Pin To Net: NetName=PIO0_0 Pin=J5-1
+Added Pin To Net: NetName=PIO0_3 Pin=J5-2
+Added Pin To Net: NetName=PIO0_4 Pin=J5-3
+Added Pin To Net: NetName=PIO0_6 Pin=J5-4
+Added Pin To Net: NetName=PIO0_7 Pin=J5-5
+Added Pin To Net: NetName=PIO0_10 Pin=J5-6
+Added Pin To Net: NetName=PIO0_13 Pin=J5-7
+Added Pin To Net: NetName=PIO0_14 Pin=J5-8
+Added Pin To Net: NetName=PIO0_15 Pin=J5-9
+Added Pin To Net: NetName=PIO0_16 Pin=J5-10
+Added Pin To Net: NetName=PIO0_30 Pin=J5-11
+Added Pin To Net: NetName=PIO0_27 Pin=J5-12
+Added Pin To Net: NetName=PIO0_23 Pin=J5-13
+Added Pin To Net: NetName=PIO0_22 Pin=J5-14
+Added Pin To Net: NetName=PIO0_21 Pin=J5-15
+Added Pin To Net: NetName=GND Pin=J5-16
+Added Pin To Net: NetName=GND Pin=J5-20
+Added Member To Class: ClassName=Main Member=Component J4 SBH11-NBPC-D10-ST-BK
+Added Member To Class: ClassName=Main Member=Component J5 SBH11-NBPC-D10-ST-BK
